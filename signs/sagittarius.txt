@@ -1,1 +1,1 @@
-Algo místico para Sagitario
+Sagitario de naturaleza positiva y mutable.
